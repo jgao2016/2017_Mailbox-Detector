@@ -8,3 +8,5 @@ The change of environmental light and human interference are excluded.
 A projector is also used to highlight the boxes with new mails to attract attention.
 
 SpaceFactory.Inc 2017/08
+
+Demo video at https://www.youtube-nocookie.com/embed/EjUb0pk0Y-k
